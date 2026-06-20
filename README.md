@@ -73,10 +73,10 @@ arquitectura de sistemas y nuevas tecnologías.
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark"/>
+src="https://github-readme-stats.vercel.app/api?username=DiegoNuva&show_icons=true&theme=github_dark"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?DiegoNuva=TU_USUARIO&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -84,9 +84,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&l
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: https://linkedin.com/in/TU_PERFIL
-- Email: tu_correo@ejemplo.com
+- GitHub: https://github.com/DiegoNuva
+- LinkedIn: https://linkedin.com/in/diego-nuva-softwaredev
+- Email: diegonuva26@gmail.com
 
 ---
 
