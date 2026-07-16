@@ -76,7 +76,7 @@ arquitectura de sistemas y nuevas tecnologías.
 src="https://github-readme-stats.vercel.app/api?username=DiegoNuva&show_icons=true&theme=github_dark"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?DiegoNuva=TU_USUARIO&layout=compact&theme=github_dark"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNuva&layout=compact&theme=github_dark"/>
 
 </p>
 
