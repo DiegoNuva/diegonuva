@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Diego Núñez</h1>
+<h1 align="center">Hola, soy Diego Núñez</h1>
 
 <h3 align="center">
 Desarrollador de Software | .NET | SQL Server | IA | Robótica
@@ -17,7 +17,6 @@ arquitectura de sistemas y nuevas tecnologías.
 - 🏢 Experiencia desarrollando sistemas administrativos para negocios.
 - 🌐 Interesado en aplicaciones web modernas con .NET y Blazor.
 - 🤖 Explorando Inteligencia Artificial y Deep Learning.
-- 🎮 Aprendiendo desarrollo de videojuegos con Unity.
 - 🕷️ Interesado en proyectos de robótica y automatización.
 - 📚 Siempre aprendiendo nuevas tecnologías.
 
@@ -41,8 +40,6 @@ arquitectura de sistemas y nuevas tecnologías.
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-
 </p>
 
 ---
@@ -65,20 +62,6 @@ arquitectura de sistemas y nuevas tecnologías.
 - Participar en proyectos internacionales.
 - Contribuir a proyectos Open Source.
 - Construir productos tecnológicos escalables.
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DiegoNuva&show_icons=true&theme=github_dark"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNuva&layout=compact&theme=github_dark"/>
-
-</p>
 
 ---
 
